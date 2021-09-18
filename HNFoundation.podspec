@@ -12,7 +12,6 @@ Pod::Spec.new do |s|
   #  can feel like a chore to fill in it's definitely to your advantage. The
   #  summary should be tweet-length, and the description more in depth.
   #
-Pod::Spec.new do |s|
 s.name          = "HNFoundation"
 s.version       = "2.0.0"
 s.summary       = "HNFoundation KMP library"
