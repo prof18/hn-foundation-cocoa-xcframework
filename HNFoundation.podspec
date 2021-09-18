@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 s.name          = "HNFoundation"
-s.version       = "1.0.2"
+s.version       = "2.0.0"
 s.summary       = "HNFoundation KMP library"
 s.homepage      = "https://github.com/prof18/hn-foundation-cocoa-xcframework"
 s.license       = "Apache"
